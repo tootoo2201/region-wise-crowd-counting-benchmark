@@ -1,0 +1,5041 @@
+[
+ {
+  "image_id": "jhu_0055",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "0055.jpg",
+  "width": 2048,
+  "height": 1356,
+  "level": 1,
+  "total_count": 3,
+  "region_counts": {
+   "left": 1,
+   "center": 1,
+   "right": 1
+  },
+  "most_crowded_region": [
+   "left",
+   "center",
+   "right"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "jhu_0087",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "0087.jpg",
+  "width": 1200,
+  "height": 630,
+  "level": 1,
+  "total_count": 2,
+  "region_counts": {
+   "left": 0,
+   "center": 2,
+   "right": 0
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_0423",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "val",
+  "source_file": "0423.jpg",
+  "width": 940,
+  "height": 545,
+  "level": 1,
+  "total_count": 10,
+  "region_counts": {
+   "left": 3,
+   "center": 5,
+   "right": 2
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_0437",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "0437.jpg",
+  "width": 960,
+  "height": 640,
+  "level": 1,
+  "total_count": 8,
+  "region_counts": {
+   "left": 0,
+   "center": 3,
+   "right": 5
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_0515",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "0515.jpg",
+  "width": 930,
+  "height": 556,
+  "level": 1,
+  "total_count": 3,
+  "region_counts": {
+   "left": 1,
+   "center": 1,
+   "right": 1
+  },
+  "most_crowded_region": [
+   "left",
+   "center",
+   "right"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "jhu_0539",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "0539.jpg",
+  "width": 675,
+  "height": 450,
+  "level": 1,
+  "total_count": 8,
+  "region_counts": {
+   "left": 1,
+   "center": 7,
+   "right": 0
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 6
+ },
+ {
+  "image_id": "jhu_0746",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "0746.jpg",
+  "width": 1024,
+  "height": 576,
+  "level": 1,
+  "total_count": 3,
+  "region_counts": {
+   "left": 1,
+   "center": 1,
+   "right": 1
+  },
+  "most_crowded_region": [
+   "left",
+   "center",
+   "right"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "jhu_0748",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "val",
+  "source_file": "0748.jpg",
+  "width": 1000,
+  "height": 750,
+  "level": 1,
+  "total_count": 6,
+  "region_counts": {
+   "left": 2,
+   "center": 3,
+   "right": 1
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_0810",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "0810.jpg",
+  "width": 740,
+  "height": 600,
+  "level": 1,
+  "total_count": 5,
+  "region_counts": {
+   "left": 1,
+   "center": 2,
+   "right": 2
+  },
+  "most_crowded_region": [
+   "center",
+   "right"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "jhu_0822",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "0822.jpg",
+  "width": 6000,
+  "height": 4000,
+  "level": 1,
+  "total_count": 6,
+  "region_counts": {
+   "left": 2,
+   "center": 2,
+   "right": 2
+  },
+  "most_crowded_region": [
+   "left",
+   "center",
+   "right"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "jhu_0986",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "val",
+  "source_file": "0986.jpg",
+  "width": 5184,
+  "height": 3456,
+  "level": 1,
+  "total_count": 7,
+  "region_counts": {
+   "left": 2,
+   "center": 2,
+   "right": 3
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_1151",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "1151.jpg",
+  "width": 620,
+  "height": 413,
+  "level": 1,
+  "total_count": 8,
+  "region_counts": {
+   "left": 2,
+   "center": 4,
+   "right": 2
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_1179",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "1179.jpg",
+  "width": 1080,
+  "height": 666,
+  "level": 1,
+  "total_count": 7,
+  "region_counts": {
+   "left": 1,
+   "center": 4,
+   "right": 2
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_1221",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "val",
+  "source_file": "1221.jpg",
+  "width": 610,
+  "height": 431,
+  "level": 1,
+  "total_count": 10,
+  "region_counts": {
+   "left": 1,
+   "center": 7,
+   "right": 2
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 5
+ },
+ {
+  "image_id": "jhu_1288",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "val",
+  "source_file": "1288.jpg",
+  "width": 726,
+  "height": 484,
+  "level": 1,
+  "total_count": 5,
+  "region_counts": {
+   "left": 1,
+   "center": 3,
+   "right": 1
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_1348",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "1348.jpg",
+  "width": 4720,
+  "height": 3147,
+  "level": 1,
+  "total_count": 7,
+  "region_counts": {
+   "left": 2,
+   "center": 4,
+   "right": 1
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_1519",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "1519.jpg",
+  "width": 970,
+  "height": 334,
+  "level": 1,
+  "total_count": 6,
+  "region_counts": {
+   "left": 2,
+   "center": 2,
+   "right": 2
+  },
+  "most_crowded_region": [
+   "left",
+   "center",
+   "right"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "jhu_1575",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "1575.jpg",
+  "width": 980,
+  "height": 552,
+  "level": 1,
+  "total_count": 10,
+  "region_counts": {
+   "left": 2,
+   "center": 5,
+   "right": 3
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_1654",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "1654.jpg",
+  "width": 1444,
+  "height": 963,
+  "level": 1,
+  "total_count": 2,
+  "region_counts": {
+   "left": 1,
+   "center": 0,
+   "right": 1
+  },
+  "most_crowded_region": [
+   "left",
+   "right"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "jhu_1664",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "1664.jpg",
+  "width": 1200,
+  "height": 800,
+  "level": 1,
+  "total_count": 9,
+  "region_counts": {
+   "left": 2,
+   "center": 6,
+   "right": 1
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 4
+ },
+ {
+  "image_id": "jhu_1707",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "1707.jpg",
+  "width": 1500,
+  "height": 920,
+  "level": 1,
+  "total_count": 3,
+  "region_counts": {
+   "left": 1,
+   "center": 1,
+   "right": 1
+  },
+  "most_crowded_region": [
+   "left",
+   "center",
+   "right"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "jhu_1713",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "val",
+  "source_file": "1713.jpg",
+  "width": 763,
+  "height": 840,
+  "level": 1,
+  "total_count": 3,
+  "region_counts": {
+   "left": 0,
+   "center": 2,
+   "right": 1
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_1742",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "1742.jpg",
+  "width": 800,
+  "height": 530,
+  "level": 1,
+  "total_count": 5,
+  "region_counts": {
+   "left": 2,
+   "center": 3,
+   "right": 0
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_1855",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "1855.jpg",
+  "width": 900,
+  "height": 598,
+  "level": 1,
+  "total_count": 8,
+  "region_counts": {
+   "left": 1,
+   "center": 3,
+   "right": 4
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_1938",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "1938.jpg",
+  "width": 740,
+  "height": 418,
+  "level": 1,
+  "total_count": 8,
+  "region_counts": {
+   "left": 3,
+   "center": 4,
+   "right": 1
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_1955",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "1955.jpg",
+  "width": 800,
+  "height": 528,
+  "level": 1,
+  "total_count": 4,
+  "region_counts": {
+   "left": 1,
+   "center": 2,
+   "right": 1
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_1966",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "1966.jpg",
+  "width": 800,
+  "height": 534,
+  "level": 1,
+  "total_count": 9,
+  "region_counts": {
+   "left": 5,
+   "center": 4,
+   "right": 0
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_2082",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "2082.jpg",
+  "width": 2600,
+  "height": 1788,
+  "level": 1,
+  "total_count": 6,
+  "region_counts": {
+   "left": 2,
+   "center": 2,
+   "right": 2
+  },
+  "most_crowded_region": [
+   "left",
+   "center",
+   "right"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "jhu_2312",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "2312.jpg",
+  "width": 1000,
+  "height": 1333,
+  "level": 1,
+  "total_count": 6,
+  "region_counts": {
+   "left": 2,
+   "center": 4,
+   "right": 0
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_2392",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "2392.jpg",
+  "width": 1024,
+  "height": 660,
+  "level": 1,
+  "total_count": 1,
+  "region_counts": {
+   "left": 0,
+   "center": 1,
+   "right": 0
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_2414",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "2414.jpg",
+  "width": 1000,
+  "height": 750,
+  "level": 1,
+  "total_count": 8,
+  "region_counts": {
+   "left": 3,
+   "center": 2,
+   "right": 3
+  },
+  "most_crowded_region": [
+   "left",
+   "right"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "jhu_2448",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "2448.jpg",
+  "width": 620,
+  "height": 388,
+  "level": 1,
+  "total_count": 7,
+  "region_counts": {
+   "left": 2,
+   "center": 3,
+   "right": 2
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_2554",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "2554.jpg",
+  "width": 960,
+  "height": 720,
+  "level": 1,
+  "total_count": 7,
+  "region_counts": {
+   "left": 2,
+   "center": 3,
+   "right": 2
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_2564",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "2564.jpg",
+  "width": 620,
+  "height": 436,
+  "level": 1,
+  "total_count": 6,
+  "region_counts": {
+   "left": 2,
+   "center": 4,
+   "right": 0
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_2620",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "2620.jpg",
+  "width": 800,
+  "height": 450,
+  "level": 1,
+  "total_count": 8,
+  "region_counts": {
+   "left": 2,
+   "center": 3,
+   "right": 3
+  },
+  "most_crowded_region": [
+   "center",
+   "right"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "jhu_2686",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "val",
+  "source_file": "2686.jpg",
+  "width": 1284,
+  "height": 700,
+  "level": 1,
+  "total_count": 9,
+  "region_counts": {
+   "left": 3,
+   "center": 4,
+   "right": 2
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_2703",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "2703.jpg",
+  "width": 800,
+  "height": 420,
+  "level": 1,
+  "total_count": 4,
+  "region_counts": {
+   "left": 1,
+   "center": 3,
+   "right": 0
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_2742",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "2742.jpg",
+  "width": 624,
+  "height": 351,
+  "level": 1,
+  "total_count": 8,
+  "region_counts": {
+   "left": 2,
+   "center": 3,
+   "right": 3
+  },
+  "most_crowded_region": [
+   "center",
+   "right"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "jhu_2949",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "val",
+  "source_file": "2949.jpg",
+  "width": 620,
+  "height": 620,
+  "level": 1,
+  "total_count": 6,
+  "region_counts": {
+   "left": 1,
+   "center": 4,
+   "right": 1
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "jhu_3026",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "3026.jpg",
+  "width": 725,
+  "height": 300,
+  "level": 1,
+  "total_count": 7,
+  "region_counts": {
+   "left": 0,
+   "center": 6,
+   "right": 1
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 5
+ },
+ {
+  "image_id": "jhu_3116",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "val",
+  "source_file": "3116.jpg",
+  "width": 628,
+  "height": 353,
+  "level": 1,
+  "total_count": 9,
+  "region_counts": {
+   "left": 3,
+   "center": 3,
+   "right": 3
+  },
+  "most_crowded_region": [
+   "left",
+   "center",
+   "right"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "jhu_3123",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "3123.jpg",
+  "width": 810,
+  "height": 450,
+  "level": 1,
+  "total_count": 9,
+  "region_counts": {
+   "left": 2,
+   "center": 3,
+   "right": 4
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_3170",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "3170.jpg",
+  "width": 800,
+  "height": 330,
+  "level": 1,
+  "total_count": 8,
+  "region_counts": {
+   "left": 2,
+   "center": 4,
+   "right": 2
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_3394",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "val",
+  "source_file": "3394.jpg",
+  "width": 720,
+  "height": 405,
+  "level": 1,
+  "total_count": 10,
+  "region_counts": {
+   "left": 2,
+   "center": 4,
+   "right": 4
+  },
+  "most_crowded_region": [
+   "center",
+   "right"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "jhu_3703",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "3703.jpg",
+  "width": 1000,
+  "height": 750,
+  "level": 1,
+  "total_count": 4,
+  "region_counts": {
+   "left": 1,
+   "center": 2,
+   "right": 1
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_3785",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "3785.jpg",
+  "width": 550,
+  "height": 550,
+  "level": 1,
+  "total_count": 3,
+  "region_counts": {
+   "left": 2,
+   "center": 0,
+   "right": 1
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_4002",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "4002.jpg",
+  "width": 970,
+  "height": 450,
+  "level": 1,
+  "total_count": 9,
+  "region_counts": {
+   "left": 3,
+   "center": 3,
+   "right": 3
+  },
+  "most_crowded_region": [
+   "left",
+   "center",
+   "right"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "jhu_4009",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "4009.jpg",
+  "width": 600,
+  "height": 383,
+  "level": 1,
+  "total_count": 1,
+  "region_counts": {
+   "left": 0,
+   "center": 1,
+   "right": 0
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_4323",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "4323.jpg",
+  "width": 1050,
+  "height": 600,
+  "level": 1,
+  "total_count": 9,
+  "region_counts": {
+   "left": 3,
+   "center": 4,
+   "right": 2
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "sha_IMG_198",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_198.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 1,
+  "total_count": 9,
+  "region_counts": {
+   "left": 2,
+   "center": 4,
+   "right": 3
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_0109",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "0109.jpg",
+  "width": 4912,
+  "height": 3264,
+  "level": 2,
+  "total_count": 19,
+  "region_counts": {
+   "left": 4,
+   "center": 5,
+   "right": 10
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 5
+ },
+ {
+  "image_id": "jhu_0351",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "0351.jpg",
+  "width": 1024,
+  "height": 400,
+  "level": 2,
+  "total_count": 16,
+  "region_counts": {
+   "left": 5,
+   "center": 7,
+   "right": 4
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_0378",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "val",
+  "source_file": "0378.jpg",
+  "width": 1042,
+  "height": 586,
+  "level": 2,
+  "total_count": 16,
+  "region_counts": {
+   "left": 3,
+   "center": 8,
+   "right": 5
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "jhu_0459",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "0459.jpg",
+  "width": 960,
+  "height": 639,
+  "level": 2,
+  "total_count": 14,
+  "region_counts": {
+   "left": 4,
+   "center": 7,
+   "right": 3
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "jhu_0461",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "0461.jpg",
+  "width": 3500,
+  "height": 2478,
+  "level": 2,
+  "total_count": 17,
+  "region_counts": {
+   "left": 6,
+   "center": 6,
+   "right": 5
+  },
+  "most_crowded_region": [
+   "left",
+   "center"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "jhu_0582",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "0582.jpg",
+  "width": 1920,
+  "height": 1080,
+  "level": 2,
+  "total_count": 18,
+  "region_counts": {
+   "left": 5,
+   "center": 10,
+   "right": 3
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 5
+ },
+ {
+  "image_id": "jhu_0675",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "val",
+  "source_file": "0675.jpg",
+  "width": 1024,
+  "height": 750,
+  "level": 2,
+  "total_count": 13,
+  "region_counts": {
+   "left": 5,
+   "center": 7,
+   "right": 1
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_0769",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "0769.jpg",
+  "width": 2048,
+  "height": 1459,
+  "level": 2,
+  "total_count": 15,
+  "region_counts": {
+   "left": 6,
+   "center": 5,
+   "right": 4
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_0862",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "0862.jpg",
+  "width": 1000,
+  "height": 662,
+  "level": 2,
+  "total_count": 18,
+  "region_counts": {
+   "left": 7,
+   "center": 6,
+   "right": 5
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_1126",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "1126.jpg",
+  "width": 2670,
+  "height": 2016,
+  "level": 2,
+  "total_count": 14,
+  "region_counts": {
+   "left": 5,
+   "center": 6,
+   "right": 3
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_1198",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "1198.jpg",
+  "width": 2000,
+  "height": 1358,
+  "level": 2,
+  "total_count": 13,
+  "region_counts": {
+   "left": 2,
+   "center": 7,
+   "right": 4
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "jhu_1244",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "val",
+  "source_file": "1244.jpg",
+  "width": 980,
+  "height": 551,
+  "level": 2,
+  "total_count": 15,
+  "region_counts": {
+   "left": 3,
+   "center": 8,
+   "right": 4
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 4
+ },
+ {
+  "image_id": "jhu_1285",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "1285.jpg",
+  "width": 800,
+  "height": 533,
+  "level": 2,
+  "total_count": 17,
+  "region_counts": {
+   "left": 4,
+   "center": 5,
+   "right": 8
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "jhu_1312",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "1312.jpg",
+  "width": 2736,
+  "height": 3648,
+  "level": 2,
+  "total_count": 12,
+  "region_counts": {
+   "left": 7,
+   "center": 2,
+   "right": 3
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 4
+ },
+ {
+  "image_id": "jhu_1364",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "val",
+  "source_file": "1364.jpg",
+  "width": 1280,
+  "height": 720,
+  "level": 2,
+  "total_count": 20,
+  "region_counts": {
+   "left": 7,
+   "center": 10,
+   "right": 3
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "jhu_1521",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "1521.jpg",
+  "width": 2716,
+  "height": 1810,
+  "level": 2,
+  "total_count": 14,
+  "region_counts": {
+   "left": 3,
+   "center": 7,
+   "right": 4
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "jhu_1533",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "1533.jpg",
+  "width": 1024,
+  "height": 683,
+  "level": 2,
+  "total_count": 12,
+  "region_counts": {
+   "left": 4,
+   "center": 1,
+   "right": 7
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "jhu_1766",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "val",
+  "source_file": "1766.jpg",
+  "width": 1024,
+  "height": 525,
+  "level": 2,
+  "total_count": 11,
+  "region_counts": {
+   "left": 2,
+   "center": 6,
+   "right": 3
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "jhu_1869",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "1869.jpg",
+  "width": 900,
+  "height": 506,
+  "level": 2,
+  "total_count": 18,
+  "region_counts": {
+   "left": 5,
+   "center": 8,
+   "right": 5
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "jhu_1880",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "1880.jpg",
+  "width": 750,
+  "height": 563,
+  "level": 2,
+  "total_count": 18,
+  "region_counts": {
+   "left": 4,
+   "center": 6,
+   "right": 8
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_1970",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "1970.jpg",
+  "width": 1000,
+  "height": 625,
+  "level": 2,
+  "total_count": 20,
+  "region_counts": {
+   "left": 4,
+   "center": 5,
+   "right": 11
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 6
+ },
+ {
+  "image_id": "jhu_2140",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "2140.jpg",
+  "width": 2048,
+  "height": 1365,
+  "level": 2,
+  "total_count": 13,
+  "region_counts": {
+   "left": 3,
+   "center": 8,
+   "right": 2
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 5
+ },
+ {
+  "image_id": "jhu_2171",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "2171.jpg",
+  "width": 1200,
+  "height": 900,
+  "level": 2,
+  "total_count": 14,
+  "region_counts": {
+   "left": 5,
+   "center": 5,
+   "right": 4
+  },
+  "most_crowded_region": [
+   "left",
+   "center"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "jhu_2234",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "2234.jpg",
+  "width": 3543,
+  "height": 2016,
+  "level": 2,
+  "total_count": 12,
+  "region_counts": {
+   "left": 6,
+   "center": 4,
+   "right": 2
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_2435",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "2435.jpg",
+  "width": 1890,
+  "height": 1256,
+  "level": 2,
+  "total_count": 18,
+  "region_counts": {
+   "left": 5,
+   "center": 9,
+   "right": 4
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 4
+ },
+ {
+  "image_id": "jhu_2485",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "2485.jpg",
+  "width": 1920,
+  "height": 1080,
+  "level": 2,
+  "total_count": 15,
+  "region_counts": {
+   "left": 0,
+   "center": 10,
+   "right": 5
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 5
+ },
+ {
+  "image_id": "jhu_2760",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "val",
+  "source_file": "2760.jpg",
+  "width": 1280,
+  "height": 720,
+  "level": 2,
+  "total_count": 16,
+  "region_counts": {
+   "left": 6,
+   "center": 5,
+   "right": 5
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_2826",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "2826.jpg",
+  "width": 1200,
+  "height": 675,
+  "level": 2,
+  "total_count": 19,
+  "region_counts": {
+   "left": 6,
+   "center": 7,
+   "right": 6
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_3077",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "val",
+  "source_file": "3077.jpg",
+  "width": 1023,
+  "height": 575,
+  "level": 2,
+  "total_count": 17,
+  "region_counts": {
+   "left": 7,
+   "center": 7,
+   "right": 3
+  },
+  "most_crowded_region": [
+   "left",
+   "center"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "jhu_3173",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "3173.jpg",
+  "width": 1698,
+  "height": 1131,
+  "level": 2,
+  "total_count": 15,
+  "region_counts": {
+   "left": 9,
+   "center": 3,
+   "right": 3
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 6
+ },
+ {
+  "image_id": "jhu_3261",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "3261.jpg",
+  "width": 800,
+  "height": 600,
+  "level": 2,
+  "total_count": 16,
+  "region_counts": {
+   "left": 5,
+   "center": 6,
+   "right": 5
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_3347",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "3347.jpg",
+  "width": 2592,
+  "height": 1728,
+  "level": 2,
+  "total_count": 16,
+  "region_counts": {
+   "left": 6,
+   "center": 5,
+   "right": 5
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_3807",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "3807.jpg",
+  "width": 1920,
+  "height": 1080,
+  "level": 2,
+  "total_count": 14,
+  "region_counts": {
+   "left": 3,
+   "center": 9,
+   "right": 2
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 6
+ },
+ {
+  "image_id": "jhu_3824",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "3824.jpg",
+  "width": 800,
+  "height": 533,
+  "level": 2,
+  "total_count": 19,
+  "region_counts": {
+   "left": 7,
+   "center": 8,
+   "right": 4
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_3939",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "3939.jpg",
+  "width": 1200,
+  "height": 799,
+  "level": 2,
+  "total_count": 16,
+  "region_counts": {
+   "left": 7,
+   "center": 3,
+   "right": 6
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_3945",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "3945.jpg",
+  "width": 960,
+  "height": 540,
+  "level": 2,
+  "total_count": 16,
+  "region_counts": {
+   "left": 8,
+   "center": 5,
+   "right": 3
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "jhu_3967",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "3967.jpg",
+  "width": 4707,
+  "height": 3138,
+  "level": 2,
+  "total_count": 16,
+  "region_counts": {
+   "left": 9,
+   "center": 7,
+   "right": 0
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_4090",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "4090.jpg",
+  "width": 1800,
+  "height": 1009,
+  "level": 2,
+  "total_count": 14,
+  "region_counts": {
+   "left": 7,
+   "center": 3,
+   "right": 4
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "jhu_4105",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "4105.jpg",
+  "width": 960,
+  "height": 720,
+  "level": 2,
+  "total_count": 13,
+  "region_counts": {
+   "left": 3,
+   "center": 6,
+   "right": 4
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_4175",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "4175.jpg",
+  "width": 1080,
+  "height": 720,
+  "level": 2,
+  "total_count": 13,
+  "region_counts": {
+   "left": 3,
+   "center": 6,
+   "right": 4
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_4284",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "4284.jpg",
+  "width": 1100,
+  "height": 619,
+  "level": 2,
+  "total_count": 15,
+  "region_counts": {
+   "left": 5,
+   "center": 6,
+   "right": 4
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "sha_IMG_111",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_111.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 2,
+  "total_count": 20,
+  "region_counts": {
+   "left": 3,
+   "center": 8,
+   "right": 9
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "sha_IMG_171",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_171.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 2,
+  "total_count": 15,
+  "region_counts": {
+   "left": 1,
+   "center": 2,
+   "right": 12
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 10
+ },
+ {
+  "image_id": "sha_IMG_20",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_20.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 2,
+  "total_count": 15,
+  "region_counts": {
+   "left": 5,
+   "center": 8,
+   "right": 2
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "sha_IMG_288",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_288.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 2,
+  "total_count": 20,
+  "region_counts": {
+   "left": 5,
+   "center": 8,
+   "right": 7
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "sha_IMG_404",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_88.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 2,
+  "total_count": 14,
+  "region_counts": {
+   "left": 4,
+   "center": 8,
+   "right": 2
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 4
+ },
+ {
+  "image_id": "sha_IMG_409",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_93.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 2,
+  "total_count": 20,
+  "region_counts": {
+   "left": 11,
+   "center": 7,
+   "right": 2
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 4
+ },
+ {
+  "image_id": "sha_IMG_571",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_255.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 2,
+  "total_count": 13,
+  "region_counts": {
+   "left": 5,
+   "center": 2,
+   "right": 6
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "sha_IMG_648",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_332.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 2,
+  "total_count": 15,
+  "region_counts": {
+   "left": 6,
+   "center": 5,
+   "right": 4
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "sha_IMG_671",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_355.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 2,
+  "total_count": 19,
+  "region_counts": {
+   "left": 10,
+   "center": 5,
+   "right": 4
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 5
+ },
+ {
+  "image_id": "jhu_0223",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "0223.jpg",
+  "width": 5760,
+  "height": 3840,
+  "level": 3,
+  "total_count": 25,
+  "region_counts": {
+   "left": 6,
+   "center": 9,
+   "right": 10
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_0322",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "0322.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 3,
+  "total_count": 22,
+  "region_counts": {
+   "left": 6,
+   "center": 12,
+   "right": 4
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 6
+ },
+ {
+  "image_id": "jhu_0502",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "0502.jpg",
+  "width": 1000,
+  "height": 662,
+  "level": 3,
+  "total_count": 29,
+  "region_counts": {
+   "left": 10,
+   "center": 6,
+   "right": 13
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "jhu_0506",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "val",
+  "source_file": "0506.jpg",
+  "width": 1000,
+  "height": 529,
+  "level": 3,
+  "total_count": 21,
+  "region_counts": {
+   "left": 12,
+   "center": 6,
+   "right": 3
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 6
+ },
+ {
+  "image_id": "jhu_0585",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "0585.jpg",
+  "width": 1000,
+  "height": 666,
+  "level": 3,
+  "total_count": 22,
+  "region_counts": {
+   "left": 6,
+   "center": 7,
+   "right": 9
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_0770",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "0770.jpg",
+  "width": 1600,
+  "height": 1077,
+  "level": 3,
+  "total_count": 21,
+  "region_counts": {
+   "left": 10,
+   "center": 9,
+   "right": 2
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_1204",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "1204.jpg",
+  "width": 900,
+  "height": 505,
+  "level": 3,
+  "total_count": 21,
+  "region_counts": {
+   "left": 5,
+   "center": 10,
+   "right": 6
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 4
+ },
+ {
+  "image_id": "jhu_1870",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "1870.jpg",
+  "width": 1280,
+  "height": 720,
+  "level": 3,
+  "total_count": 22,
+  "region_counts": {
+   "left": 3,
+   "center": 16,
+   "right": 3
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 13
+ },
+ {
+  "image_id": "jhu_1957",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "1957.jpg",
+  "width": 1280,
+  "height": 873,
+  "level": 3,
+  "total_count": 25,
+  "region_counts": {
+   "left": 13,
+   "center": 9,
+   "right": 3
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 4
+ },
+ {
+  "image_id": "jhu_1984",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "1984.jpg",
+  "width": 899,
+  "height": 600,
+  "level": 3,
+  "total_count": 29,
+  "region_counts": {
+   "left": 12,
+   "center": 14,
+   "right": 3
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_2488",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "2488.jpg",
+  "width": 1500,
+  "height": 1016,
+  "level": 3,
+  "total_count": 28,
+  "region_counts": {
+   "left": 7,
+   "center": 12,
+   "right": 9
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "jhu_2529",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "2529.jpg",
+  "width": 3648,
+  "height": 2736,
+  "level": 3,
+  "total_count": 26,
+  "region_counts": {
+   "left": 6,
+   "center": 17,
+   "right": 3
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 11
+ },
+ {
+  "image_id": "jhu_2822",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "2822.jpg",
+  "width": 6000,
+  "height": 4000,
+  "level": 3,
+  "total_count": 29,
+  "region_counts": {
+   "left": 7,
+   "center": 15,
+   "right": 7
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 8
+ },
+ {
+  "image_id": "jhu_2834",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "2834.jpg",
+  "width": 1024,
+  "height": 683,
+  "level": 3,
+  "total_count": 29,
+  "region_counts": {
+   "left": 11,
+   "center": 11,
+   "right": 7
+  },
+  "most_crowded_region": [
+   "left",
+   "center"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "jhu_2842",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "2842.jpg",
+  "width": 804,
+  "height": 530,
+  "level": 3,
+  "total_count": 24,
+  "region_counts": {
+   "left": 6,
+   "center": 8,
+   "right": 10
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_2937",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "2937.jpg",
+  "width": 1000,
+  "height": 661,
+  "level": 3,
+  "total_count": 28,
+  "region_counts": {
+   "left": 9,
+   "center": 9,
+   "right": 10
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_2955",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "2955.jpg",
+  "width": 1527,
+  "height": 873,
+  "level": 3,
+  "total_count": 21,
+  "region_counts": {
+   "left": 6,
+   "center": 8,
+   "right": 7
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_2958",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "2958.jpg",
+  "width": 1200,
+  "height": 630,
+  "level": 3,
+  "total_count": 26,
+  "region_counts": {
+   "left": 10,
+   "center": 6,
+   "right": 10
+  },
+  "most_crowded_region": [
+   "left",
+   "right"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "jhu_3434",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "3434.jpg",
+  "width": 960,
+  "height": 500,
+  "level": 3,
+  "total_count": 21,
+  "region_counts": {
+   "left": 4,
+   "center": 14,
+   "right": 3
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 10
+ },
+ {
+  "image_id": "jhu_3472",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "val",
+  "source_file": "3472.jpg",
+  "width": 852,
+  "height": 480,
+  "level": 3,
+  "total_count": 22,
+  "region_counts": {
+   "left": 7,
+   "center": 6,
+   "right": 9
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_3528",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "3528.jpg",
+  "width": 3840,
+  "height": 2160,
+  "level": 3,
+  "total_count": 26,
+  "region_counts": {
+   "left": 2,
+   "center": 14,
+   "right": 10
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 4
+ },
+ {
+  "image_id": "jhu_3659",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "3659.jpg",
+  "width": 860,
+  "height": 481,
+  "level": 3,
+  "total_count": 29,
+  "region_counts": {
+   "left": 10,
+   "center": 8,
+   "right": 11
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_3725",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "3725.jpg",
+  "width": 800,
+  "height": 641,
+  "level": 3,
+  "total_count": 26,
+  "region_counts": {
+   "left": 14,
+   "center": 6,
+   "right": 6
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 8
+ },
+ {
+  "image_id": "jhu_3840",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "3840.jpg",
+  "width": 1500,
+  "height": 625,
+  "level": 3,
+  "total_count": 25,
+  "region_counts": {
+   "left": 5,
+   "center": 13,
+   "right": 7
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 6
+ },
+ {
+  "image_id": "jhu_3927",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "3927.jpg",
+  "width": 960,
+  "height": 638,
+  "level": 3,
+  "total_count": 27,
+  "region_counts": {
+   "left": 12,
+   "center": 10,
+   "right": 5
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_4166",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "4166.jpg",
+  "width": 960,
+  "height": 624,
+  "level": 3,
+  "total_count": 23,
+  "region_counts": {
+   "left": 10,
+   "center": 6,
+   "right": 7
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "jhu_4289",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "4289.jpg",
+  "width": 1000,
+  "height": 600,
+  "level": 3,
+  "total_count": 30,
+  "region_counts": {
+   "left": 15,
+   "center": 11,
+   "right": 4
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 4
+ },
+ {
+  "image_id": "sha_IMG_1",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_1.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 3,
+  "total_count": 23,
+  "region_counts": {
+   "left": 2,
+   "center": 11,
+   "right": 10
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "sha_IMG_177",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_177.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 3,
+  "total_count": 21,
+  "region_counts": {
+   "left": 6,
+   "center": 3,
+   "right": 12
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 6
+ },
+ {
+  "image_id": "sha_IMG_233",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_233.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 3,
+  "total_count": 29,
+  "region_counts": {
+   "left": 21,
+   "center": 6,
+   "right": 2
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 15
+ },
+ {
+  "image_id": "sha_IMG_250",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_250.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 3,
+  "total_count": 24,
+  "region_counts": {
+   "left": 11,
+   "center": 10,
+   "right": 3
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "sha_IMG_282",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_282.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 3,
+  "total_count": 24,
+  "region_counts": {
+   "left": 8,
+   "center": 11,
+   "right": 5
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "sha_IMG_313",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_313.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 3,
+  "total_count": 29,
+  "region_counts": {
+   "left": 15,
+   "center": 3,
+   "right": 11
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 4
+ },
+ {
+  "image_id": "sha_IMG_319",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_3.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 3,
+  "total_count": 29,
+  "region_counts": {
+   "left": 14,
+   "center": 4,
+   "right": 11
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "sha_IMG_368",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_52.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 3,
+  "total_count": 23,
+  "region_counts": {
+   "left": 7,
+   "center": 11,
+   "right": 5
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 4
+ },
+ {
+  "image_id": "sha_IMG_375",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_59.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 3,
+  "total_count": 25,
+  "region_counts": {
+   "left": 8,
+   "center": 10,
+   "right": 7
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "sha_IMG_398",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_82.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 3,
+  "total_count": 30,
+  "region_counts": {
+   "left": 8,
+   "center": 10,
+   "right": 12
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "sha_IMG_402",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_86.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 3,
+  "total_count": 22,
+  "region_counts": {
+   "left": 6,
+   "center": 11,
+   "right": 5
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 5
+ },
+ {
+  "image_id": "sha_IMG_436",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_120.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 3,
+  "total_count": 28,
+  "region_counts": {
+   "left": 13,
+   "center": 12,
+   "right": 3
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "sha_IMG_469",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_153.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 3,
+  "total_count": 27,
+  "region_counts": {
+   "left": 7,
+   "center": 10,
+   "right": 10
+  },
+  "most_crowded_region": [
+   "center",
+   "right"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "sha_IMG_517",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_201.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 3,
+  "total_count": 30,
+  "region_counts": {
+   "left": 13,
+   "center": 7,
+   "right": 10
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "sha_IMG_549",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_233.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 3,
+  "total_count": 23,
+  "region_counts": {
+   "left": 6,
+   "center": 8,
+   "right": 9
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "sha_IMG_592",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_276.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 3,
+  "total_count": 26,
+  "region_counts": {
+   "left": 7,
+   "center": 6,
+   "right": 13
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 6
+ },
+ {
+  "image_id": "sha_IMG_594",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_278.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 3,
+  "total_count": 30,
+  "region_counts": {
+   "left": 9,
+   "center": 11,
+   "right": 10
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "sha_IMG_609",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_293.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 3,
+  "total_count": 23,
+  "region_counts": {
+   "left": 4,
+   "center": 12,
+   "right": 7
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 5
+ },
+ {
+  "image_id": "sha_IMG_630",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_314.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 3,
+  "total_count": 26,
+  "region_counts": {
+   "left": 5,
+   "center": 11,
+   "right": 10
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "sha_IMG_651",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_335.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 3,
+  "total_count": 23,
+  "region_counts": {
+   "left": 13,
+   "center": 8,
+   "right": 2
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 5
+ },
+ {
+  "image_id": "sha_IMG_689",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_373.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 3,
+  "total_count": 23,
+  "region_counts": {
+   "left": 10,
+   "center": 7,
+   "right": 6
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "sha_IMG_712",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_396.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 3,
+  "total_count": 28,
+  "region_counts": {
+   "left": 1,
+   "center": 13,
+   "right": 14
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "sha_IMG_89",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_89.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 3,
+  "total_count": 23,
+  "region_counts": {
+   "left": 14,
+   "center": 9,
+   "right": 0
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 5
+ },
+ {
+  "image_id": "jhu_0023",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "0023.jpg",
+  "width": 980,
+  "height": 620,
+  "level": 4,
+  "total_count": 39,
+  "region_counts": {
+   "left": 10,
+   "center": 20,
+   "right": 9
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 10
+ },
+ {
+  "image_id": "jhu_0070",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "val",
+  "source_file": "0070.jpg",
+  "width": 1024,
+  "height": 576,
+  "level": 4,
+  "total_count": 32,
+  "region_counts": {
+   "left": 8,
+   "center": 14,
+   "right": 10
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 4
+ },
+ {
+  "image_id": "jhu_0201",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "0201.jpg",
+  "width": 900,
+  "height": 600,
+  "level": 4,
+  "total_count": 35,
+  "region_counts": {
+   "left": 12,
+   "center": 11,
+   "right": 12
+  },
+  "most_crowded_region": [
+   "left",
+   "right"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "jhu_0555",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "0555.jpg",
+  "width": 798,
+  "height": 571,
+  "level": 4,
+  "total_count": 34,
+  "region_counts": {
+   "left": 8,
+   "center": 16,
+   "right": 10
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 6
+ },
+ {
+  "image_id": "jhu_0601",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "0601.jpg",
+  "width": 2200,
+  "height": 1199,
+  "level": 4,
+  "total_count": 32,
+  "region_counts": {
+   "left": 10,
+   "center": 12,
+   "right": 10
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_1063",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "1063.jpg",
+  "width": 768,
+  "height": 521,
+  "level": 4,
+  "total_count": 33,
+  "region_counts": {
+   "left": 10,
+   "center": 14,
+   "right": 9
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 4
+ },
+ {
+  "image_id": "jhu_1180",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "1180.jpg",
+  "width": 1200,
+  "height": 786,
+  "level": 4,
+  "total_count": 32,
+  "region_counts": {
+   "left": 11,
+   "center": 12,
+   "right": 9
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_1294",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "1294.jpg",
+  "width": 1637,
+  "height": 1070,
+  "level": 4,
+  "total_count": 38,
+  "region_counts": {
+   "left": 17,
+   "center": 11,
+   "right": 10
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 6
+ },
+ {
+  "image_id": "jhu_1368",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "1368.jpg",
+  "width": 854,
+  "height": 570,
+  "level": 4,
+  "total_count": 40,
+  "region_counts": {
+   "left": 14,
+   "center": 11,
+   "right": 15
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_1472",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "1472.jpg",
+  "width": 1920,
+  "height": 1080,
+  "level": 4,
+  "total_count": 39,
+  "region_counts": {
+   "left": 9,
+   "center": 12,
+   "right": 18
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 6
+ },
+ {
+  "image_id": "jhu_1787",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "val",
+  "source_file": "1787.jpg",
+  "width": 962,
+  "height": 608,
+  "level": 4,
+  "total_count": 40,
+  "region_counts": {
+   "left": 14,
+   "center": 18,
+   "right": 8
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 4
+ },
+ {
+  "image_id": "jhu_1896",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "1896.jpg",
+  "width": 900,
+  "height": 1200,
+  "level": 4,
+  "total_count": 31,
+  "region_counts": {
+   "left": 9,
+   "center": 9,
+   "right": 13
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 4
+ },
+ {
+  "image_id": "jhu_2170",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "2170.jpg",
+  "width": 1498,
+  "height": 854,
+  "level": 4,
+  "total_count": 39,
+  "region_counts": {
+   "left": 9,
+   "center": 12,
+   "right": 18
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 6
+ },
+ {
+  "image_id": "jhu_2241",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "val",
+  "source_file": "2241.jpg",
+  "width": 1000,
+  "height": 1000,
+  "level": 4,
+  "total_count": 32,
+  "region_counts": {
+   "left": 9,
+   "center": 14,
+   "right": 9
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 5
+ },
+ {
+  "image_id": "jhu_2335",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "2335.jpg",
+  "width": 1555,
+  "height": 1037,
+  "level": 4,
+  "total_count": 34,
+  "region_counts": {
+   "left": 13,
+   "center": 11,
+   "right": 10
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_2400",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "2400.jpg",
+  "width": 1400,
+  "height": 788,
+  "level": 4,
+  "total_count": 35,
+  "region_counts": {
+   "left": 10,
+   "center": 17,
+   "right": 8
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 7
+ },
+ {
+  "image_id": "jhu_2525",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "2525.jpg",
+  "width": 1000,
+  "height": 667,
+  "level": 4,
+  "total_count": 34,
+  "region_counts": {
+   "left": 7,
+   "center": 17,
+   "right": 10
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 7
+ },
+ {
+  "image_id": "jhu_2672",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "val",
+  "source_file": "2672.jpg",
+  "width": 962,
+  "height": 640,
+  "level": 4,
+  "total_count": 40,
+  "region_counts": {
+   "left": 9,
+   "center": 13,
+   "right": 18
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 5
+ },
+ {
+  "image_id": "jhu_2882",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "val",
+  "source_file": "2882.jpg",
+  "width": 976,
+  "height": 694,
+  "level": 4,
+  "total_count": 38,
+  "region_counts": {
+   "left": 10,
+   "center": 14,
+   "right": 14
+  },
+  "most_crowded_region": [
+   "center",
+   "right"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "jhu_3027",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "3027.jpg",
+  "width": 1400,
+  "height": 1400,
+  "level": 4,
+  "total_count": 32,
+  "region_counts": {
+   "left": 12,
+   "center": 4,
+   "right": 16
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 4
+ },
+ {
+  "image_id": "jhu_3168",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "3168.jpg",
+  "width": 1024,
+  "height": 683,
+  "level": 4,
+  "total_count": 39,
+  "region_counts": {
+   "left": 13,
+   "center": 10,
+   "right": 16
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "jhu_3613",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "3613.jpg",
+  "width": 2000,
+  "height": 1125,
+  "level": 4,
+  "total_count": 37,
+  "region_counts": {
+   "left": 10,
+   "center": 12,
+   "right": 15
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "jhu_3881",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "3881.jpg",
+  "width": 800,
+  "height": 566,
+  "level": 4,
+  "total_count": 38,
+  "region_counts": {
+   "left": 14,
+   "center": 18,
+   "right": 6
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 4
+ },
+ {
+  "image_id": "jhu_3896",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "3896.jpg",
+  "width": 1000,
+  "height": 666,
+  "level": 4,
+  "total_count": 36,
+  "region_counts": {
+   "left": 13,
+   "center": 13,
+   "right": 10
+  },
+  "most_crowded_region": [
+   "left",
+   "center"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "jhu_3947",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "3947.jpg",
+  "width": 2500,
+  "height": 1575,
+  "level": 4,
+  "total_count": 36,
+  "region_counts": {
+   "left": 7,
+   "center": 18,
+   "right": 11
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 7
+ },
+ {
+  "image_id": "jhu_4095",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "4095.jpg",
+  "width": 1024,
+  "height": 640,
+  "level": 4,
+  "total_count": 35,
+  "region_counts": {
+   "left": 17,
+   "center": 9,
+   "right": 9
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 8
+ },
+ {
+  "image_id": "jhu_4116",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "4116.jpg",
+  "width": 1150,
+  "height": 800,
+  "level": 4,
+  "total_count": 37,
+  "region_counts": {
+   "left": 11,
+   "center": 13,
+   "right": 13
+  },
+  "most_crowded_region": [
+   "center",
+   "right"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "jhu_4182",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "4182.jpg",
+  "width": 960,
+  "height": 720,
+  "level": 4,
+  "total_count": 31,
+  "region_counts": {
+   "left": 6,
+   "center": 17,
+   "right": 8
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 9
+ },
+ {
+  "image_id": "sha_IMG_141",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_141.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 4,
+  "total_count": 35,
+  "region_counts": {
+   "left": 17,
+   "center": 9,
+   "right": 9
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 8
+ },
+ {
+  "image_id": "sha_IMG_189",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_189.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 4,
+  "total_count": 40,
+  "region_counts": {
+   "left": 23,
+   "center": 10,
+   "right": 7
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 13
+ },
+ {
+  "image_id": "sha_IMG_210",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_210.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 4,
+  "total_count": 35,
+  "region_counts": {
+   "left": 6,
+   "center": 15,
+   "right": 14
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "sha_IMG_252",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_252.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 4,
+  "total_count": 31,
+  "region_counts": {
+   "left": 6,
+   "center": 12,
+   "right": 13
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "sha_IMG_264",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_264.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 4,
+  "total_count": 36,
+  "region_counts": {
+   "left": 11,
+   "center": 10,
+   "right": 15
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 4
+ },
+ {
+  "image_id": "sha_IMG_352",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_36.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 4,
+  "total_count": 32,
+  "region_counts": {
+   "left": 22,
+   "center": 6,
+   "right": 4
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 16
+ },
+ {
+  "image_id": "sha_IMG_376",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_60.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 4,
+  "total_count": 40,
+  "region_counts": {
+   "left": 0,
+   "center": 26,
+   "right": 14
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 12
+ },
+ {
+  "image_id": "sha_IMG_387",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_71.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 4,
+  "total_count": 35,
+  "region_counts": {
+   "left": 9,
+   "center": 15,
+   "right": 11
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 4
+ },
+ {
+  "image_id": "sha_IMG_392",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_76.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 4,
+  "total_count": 32,
+  "region_counts": {
+   "left": 7,
+   "center": 17,
+   "right": 8
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 9
+ },
+ {
+  "image_id": "sha_IMG_403",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_87.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 4,
+  "total_count": 38,
+  "region_counts": {
+   "left": 11,
+   "center": 15,
+   "right": 12
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "sha_IMG_529",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_213.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 4,
+  "total_count": 36,
+  "region_counts": {
+   "left": 8,
+   "center": 16,
+   "right": 12
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 4
+ },
+ {
+  "image_id": "sha_IMG_536",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_220.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 4,
+  "total_count": 38,
+  "region_counts": {
+   "left": 18,
+   "center": 10,
+   "right": 10
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 8
+ },
+ {
+  "image_id": "sha_IMG_548",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_232.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 4,
+  "total_count": 33,
+  "region_counts": {
+   "left": 10,
+   "center": 14,
+   "right": 9
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 4
+ },
+ {
+  "image_id": "sha_IMG_552",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_236.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 4,
+  "total_count": 37,
+  "region_counts": {
+   "left": 14,
+   "center": 12,
+   "right": 11
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "sha_IMG_577",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_261.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 4,
+  "total_count": 36,
+  "region_counts": {
+   "left": 10,
+   "center": 8,
+   "right": 18
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 8
+ },
+ {
+  "image_id": "sha_IMG_581",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_265.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 4,
+  "total_count": 32,
+  "region_counts": {
+   "left": 15,
+   "center": 11,
+   "right": 6
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 4
+ },
+ {
+  "image_id": "sha_IMG_60",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_60.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 4,
+  "total_count": 35,
+  "region_counts": {
+   "left": 8,
+   "center": 8,
+   "right": 19
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 11
+ },
+ {
+  "image_id": "sha_IMG_608",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_292.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 4,
+  "total_count": 34,
+  "region_counts": {
+   "left": 17,
+   "center": 8,
+   "right": 9
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 8
+ },
+ {
+  "image_id": "sha_IMG_632",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_316.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 4,
+  "total_count": 35,
+  "region_counts": {
+   "left": 5,
+   "center": 12,
+   "right": 18
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 6
+ },
+ {
+  "image_id": "sha_IMG_642",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_326.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 4,
+  "total_count": 35,
+  "region_counts": {
+   "left": 13,
+   "center": 13,
+   "right": 9
+  },
+  "most_crowded_region": [
+   "left",
+   "center"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "sha_IMG_663",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_347.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 4,
+  "total_count": 33,
+  "region_counts": {
+   "left": 13,
+   "center": 16,
+   "right": 4
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "sha_IMG_9",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_9.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 4,
+  "total_count": 36,
+  "region_counts": {
+   "left": 10,
+   "center": 11,
+   "right": 15
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 4
+ },
+ {
+  "image_id": "jhu_0103",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "0103.jpg",
+  "width": 2160,
+  "height": 1440,
+  "level": 5,
+  "total_count": 47,
+  "region_counts": {
+   "left": 16,
+   "center": 13,
+   "right": 18
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_0204",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "0204.jpg",
+  "width": 3977,
+  "height": 2646,
+  "level": 5,
+  "total_count": 42,
+  "region_counts": {
+   "left": 13,
+   "center": 20,
+   "right": 9
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 7
+ },
+ {
+  "image_id": "jhu_0419",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "0419.jpg",
+  "width": 1121,
+  "height": 738,
+  "level": 5,
+  "total_count": 47,
+  "region_counts": {
+   "left": 17,
+   "center": 15,
+   "right": 15
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_0443",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "0443.jpg",
+  "width": 1000,
+  "height": 750,
+  "level": 5,
+  "total_count": 42,
+  "region_counts": {
+   "left": 10,
+   "center": 20,
+   "right": 12
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 8
+ },
+ {
+  "image_id": "jhu_0456",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "0456.jpg",
+  "width": 1920,
+  "height": 1080,
+  "level": 5,
+  "total_count": 47,
+  "region_counts": {
+   "left": 25,
+   "center": 16,
+   "right": 6
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 9
+ },
+ {
+  "image_id": "jhu_0702",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "0702.jpg",
+  "width": 1200,
+  "height": 800,
+  "level": 5,
+  "total_count": 50,
+  "region_counts": {
+   "left": 11,
+   "center": 20,
+   "right": 19
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_0730",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "val",
+  "source_file": "0730.jpg",
+  "width": 886,
+  "height": 591,
+  "level": 5,
+  "total_count": 45,
+  "region_counts": {
+   "left": 9,
+   "center": 26,
+   "right": 10
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 16
+ },
+ {
+  "image_id": "jhu_0888",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "0888.jpg",
+  "width": 1336,
+  "height": 749,
+  "level": 5,
+  "total_count": 47,
+  "region_counts": {
+   "left": 13,
+   "center": 17,
+   "right": 17
+  },
+  "most_crowded_region": [
+   "center",
+   "right"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "jhu_1335",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "1335.jpg",
+  "width": 900,
+  "height": 600,
+  "level": 5,
+  "total_count": 41,
+  "region_counts": {
+   "left": 8,
+   "center": 18,
+   "right": 15
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "jhu_1373",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "1373.jpg",
+  "width": 1744,
+  "height": 1170,
+  "level": 5,
+  "total_count": 44,
+  "region_counts": {
+   "left": 27,
+   "center": 14,
+   "right": 3
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 13
+ },
+ {
+  "image_id": "jhu_1374",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "1374.jpg",
+  "width": 1500,
+  "height": 1252,
+  "level": 5,
+  "total_count": 48,
+  "region_counts": {
+   "left": 14,
+   "center": 12,
+   "right": 22
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 8
+ },
+ {
+  "image_id": "jhu_1604",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "1604.jpg",
+  "width": 1200,
+  "height": 800,
+  "level": 5,
+  "total_count": 43,
+  "region_counts": {
+   "left": 17,
+   "center": 11,
+   "right": 15
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_1942",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "1942.jpg",
+  "width": 1050,
+  "height": 714,
+  "level": 5,
+  "total_count": 48,
+  "region_counts": {
+   "left": 17,
+   "center": 15,
+   "right": 16
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_2085",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "2085.jpg",
+  "width": 800,
+  "height": 535,
+  "level": 5,
+  "total_count": 44,
+  "region_counts": {
+   "left": 15,
+   "center": 16,
+   "right": 13
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_2450",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "2450.jpg",
+  "width": 800,
+  "height": 500,
+  "level": 5,
+  "total_count": 49,
+  "region_counts": {
+   "left": 12,
+   "center": 17,
+   "right": 20
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "jhu_2572",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "val",
+  "source_file": "2572.jpg",
+  "width": 990,
+  "height": 743,
+  "level": 5,
+  "total_count": 50,
+  "region_counts": {
+   "left": 19,
+   "center": 18,
+   "right": 13
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_2764",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "2764.jpg",
+  "width": 4256,
+  "height": 2832,
+  "level": 5,
+  "total_count": 45,
+  "region_counts": {
+   "left": 22,
+   "center": 20,
+   "right": 3
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_2780",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "2780.jpg",
+  "width": 1000,
+  "height": 667,
+  "level": 5,
+  "total_count": 41,
+  "region_counts": {
+   "left": 11,
+   "center": 16,
+   "right": 14
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "jhu_2897",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "2897.jpg",
+  "width": 1920,
+  "height": 1280,
+  "level": 5,
+  "total_count": 45,
+  "region_counts": {
+   "left": 13,
+   "center": 19,
+   "right": 13
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 6
+ },
+ {
+  "image_id": "jhu_3115",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "3115.jpg",
+  "width": 1368,
+  "height": 936,
+  "level": 5,
+  "total_count": 47,
+  "region_counts": {
+   "left": 14,
+   "center": 17,
+   "right": 16
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_3270",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "3270.jpg",
+  "width": 1900,
+  "height": 575,
+  "level": 5,
+  "total_count": 47,
+  "region_counts": {
+   "left": 19,
+   "center": 18,
+   "right": 10
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "jhu_3700",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "train",
+  "source_file": "3700.jpg",
+  "width": 1200,
+  "height": 802,
+  "level": 5,
+  "total_count": 41,
+  "region_counts": {
+   "left": 15,
+   "center": 8,
+   "right": 18
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "jhu_3859",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "3859.jpg",
+  "width": 800,
+  "height": 600,
+  "level": 5,
+  "total_count": 41,
+  "region_counts": {
+   "left": 21,
+   "center": 16,
+   "right": 4
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 5
+ },
+ {
+  "image_id": "jhu_4215",
+  "source_dataset": "JHU-Crowd++",
+  "source_split": "test",
+  "source_file": "4215.jpg",
+  "width": 2000,
+  "height": 1333,
+  "level": 5,
+  "total_count": 42,
+  "region_counts": {
+   "left": 8,
+   "center": 19,
+   "right": 15
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 4
+ },
+ {
+  "image_id": "sha_IMG_13",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_13.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 5,
+  "total_count": 49,
+  "region_counts": {
+   "left": 25,
+   "center": 13,
+   "right": 11
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 12
+ },
+ {
+  "image_id": "sha_IMG_151",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_151.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 5,
+  "total_count": 47,
+  "region_counts": {
+   "left": 19,
+   "center": 19,
+   "right": 9
+  },
+  "most_crowded_region": [
+   "left",
+   "center"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "sha_IMG_156",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_156.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 5,
+  "total_count": 43,
+  "region_counts": {
+   "left": 18,
+   "center": 10,
+   "right": 15
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "sha_IMG_161",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_161.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 5,
+  "total_count": 48,
+  "region_counts": {
+   "left": 19,
+   "center": 12,
+   "right": 17
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "sha_IMG_178",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_178.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 5,
+  "total_count": 43,
+  "region_counts": {
+   "left": 19,
+   "center": 14,
+   "right": 10
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 5
+ },
+ {
+  "image_id": "sha_IMG_289",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_289.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 5,
+  "total_count": 45,
+  "region_counts": {
+   "left": 14,
+   "center": 14,
+   "right": 17
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "sha_IMG_294",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_294.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 5,
+  "total_count": 46,
+  "region_counts": {
+   "left": 18,
+   "center": 12,
+   "right": 16
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "sha_IMG_308",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_308.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 5,
+  "total_count": 47,
+  "region_counts": {
+   "left": 19,
+   "center": 16,
+   "right": 12
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "sha_IMG_32",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_32.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 5,
+  "total_count": 44,
+  "region_counts": {
+   "left": 12,
+   "center": 12,
+   "right": 20
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 8
+ },
+ {
+  "image_id": "sha_IMG_330",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_14.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 5,
+  "total_count": 50,
+  "region_counts": {
+   "left": 14,
+   "center": 21,
+   "right": 15
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 6
+ },
+ {
+  "image_id": "sha_IMG_333",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_17.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 5,
+  "total_count": 49,
+  "region_counts": {
+   "left": 22,
+   "center": 15,
+   "right": 12
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 7
+ },
+ {
+  "image_id": "sha_IMG_358",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_42.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 5,
+  "total_count": 43,
+  "region_counts": {
+   "left": 12,
+   "center": 19,
+   "right": 12
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 7
+ },
+ {
+  "image_id": "sha_IMG_394",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_78.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 5,
+  "total_count": 43,
+  "region_counts": {
+   "left": 15,
+   "center": 15,
+   "right": 13
+  },
+  "most_crowded_region": [
+   "left",
+   "center"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "sha_IMG_401",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_85.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 5,
+  "total_count": 47,
+  "region_counts": {
+   "left": 18,
+   "center": 16,
+   "right": 13
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "sha_IMG_438",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_122.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 5,
+  "total_count": 43,
+  "region_counts": {
+   "left": 19,
+   "center": 8,
+   "right": 16
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 3
+ },
+ {
+  "image_id": "sha_IMG_444",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_128.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 5,
+  "total_count": 41,
+  "region_counts": {
+   "left": 13,
+   "center": 14,
+   "right": 14
+  },
+  "most_crowded_region": [
+   "center",
+   "right"
+  ],
+  "tied": true,
+  "delta": 0
+ },
+ {
+  "image_id": "sha_IMG_446",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_130.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 5,
+  "total_count": 50,
+  "region_counts": {
+   "left": 24,
+   "center": 14,
+   "right": 12
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 10
+ },
+ {
+  "image_id": "sha_IMG_451",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_135.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 5,
+  "total_count": 42,
+  "region_counts": {
+   "left": 15,
+   "center": 16,
+   "right": 11
+  },
+  "most_crowded_region": [
+   "center"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "sha_IMG_468",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_152.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 5,
+  "total_count": 41,
+  "region_counts": {
+   "left": 20,
+   "center": 18,
+   "right": 3
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "sha_IMG_489",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_173.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 5,
+  "total_count": 42,
+  "region_counts": {
+   "left": 6,
+   "center": 12,
+   "right": 24
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 12
+ },
+ {
+  "image_id": "sha_IMG_522",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_206.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 5,
+  "total_count": 47,
+  "region_counts": {
+   "left": 13,
+   "center": 16,
+   "right": 18
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 2
+ },
+ {
+  "image_id": "sha_IMG_535",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_219.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 5,
+  "total_count": 50,
+  "region_counts": {
+   "left": 24,
+   "center": 17,
+   "right": 9
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 7
+ },
+ {
+  "image_id": "sha_IMG_569",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_253.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 5,
+  "total_count": 46,
+  "region_counts": {
+   "left": 11,
+   "center": 11,
+   "right": 24
+  },
+  "most_crowded_region": [
+   "right"
+  ],
+  "tied": false,
+  "delta": 13
+ },
+ {
+  "image_id": "sha_IMG_629",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "train",
+  "source_file": "IMG_313.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 5,
+  "total_count": 41,
+  "region_counts": {
+   "left": 21,
+   "center": 15,
+   "right": 5
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 6
+ },
+ {
+  "image_id": "sha_IMG_70",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_70.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 5,
+  "total_count": 48,
+  "region_counts": {
+   "left": 17,
+   "center": 16,
+   "right": 15
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 1
+ },
+ {
+  "image_id": "sha_IMG_95",
+  "source_dataset": "ShanghaiTech Part B",
+  "source_split": "test",
+  "source_file": "IMG_95.jpg",
+  "width": 1024,
+  "height": 768,
+  "level": 5,
+  "total_count": 48,
+  "region_counts": {
+   "left": 19,
+   "center": 14,
+   "right": 15
+  },
+  "most_crowded_region": [
+   "left"
+  ],
+  "tied": false,
+  "delta": 4
+ }
+]

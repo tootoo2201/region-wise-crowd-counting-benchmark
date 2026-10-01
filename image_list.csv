@@ -1,0 +1,251 @@
+image_id,source_dataset,source_split,source_file,width,height,level,total_count,left_count,center_count,right_count,most_crowded_region,tied,delta
+jhu_0055,JHU-Crowd++,train,0055.jpg,2048,1356,1,3,1,1,1,left|center|right,1,0
+jhu_0087,JHU-Crowd++,test,0087.jpg,1200,630,1,2,0,2,0,center,0,2
+jhu_0423,JHU-Crowd++,val,0423.jpg,940,545,1,10,3,5,2,center,0,2
+jhu_0437,JHU-Crowd++,train,0437.jpg,960,640,1,8,0,3,5,right,0,2
+jhu_0515,JHU-Crowd++,test,0515.jpg,930,556,1,3,1,1,1,left|center|right,1,0
+jhu_0539,JHU-Crowd++,train,0539.jpg,675,450,1,8,1,7,0,center,0,6
+jhu_0746,JHU-Crowd++,train,0746.jpg,1024,576,1,3,1,1,1,left|center|right,1,0
+jhu_0748,JHU-Crowd++,val,0748.jpg,1000,750,1,6,2,3,1,center,0,1
+jhu_0810,JHU-Crowd++,train,0810.jpg,740,600,1,5,1,2,2,center|right,1,0
+jhu_0822,JHU-Crowd++,test,0822.jpg,6000,4000,1,6,2,2,2,left|center|right,1,0
+jhu_0986,JHU-Crowd++,val,0986.jpg,5184,3456,1,7,2,2,3,right,0,1
+jhu_1151,JHU-Crowd++,train,1151.jpg,620,413,1,8,2,4,2,center,0,2
+jhu_1179,JHU-Crowd++,train,1179.jpg,1080,666,1,7,1,4,2,center,0,2
+jhu_1221,JHU-Crowd++,val,1221.jpg,610,431,1,10,1,7,2,center,0,5
+jhu_1288,JHU-Crowd++,val,1288.jpg,726,484,1,5,1,3,1,center,0,2
+jhu_1348,JHU-Crowd++,train,1348.jpg,4720,3147,1,7,2,4,1,center,0,2
+jhu_1519,JHU-Crowd++,test,1519.jpg,970,334,1,6,2,2,2,left|center|right,1,0
+jhu_1575,JHU-Crowd++,test,1575.jpg,980,552,1,10,2,5,3,center,0,2
+jhu_1654,JHU-Crowd++,train,1654.jpg,1444,963,1,2,1,0,1,left|right,1,0
+jhu_1664,JHU-Crowd++,train,1664.jpg,1200,800,1,9,2,6,1,center,0,4
+jhu_1707,JHU-Crowd++,train,1707.jpg,1500,920,1,3,1,1,1,left|center|right,1,0
+jhu_1713,JHU-Crowd++,val,1713.jpg,763,840,1,3,0,2,1,center,0,1
+jhu_1742,JHU-Crowd++,test,1742.jpg,800,530,1,5,2,3,0,center,0,1
+jhu_1855,JHU-Crowd++,train,1855.jpg,900,598,1,8,1,3,4,right,0,1
+jhu_1938,JHU-Crowd++,train,1938.jpg,740,418,1,8,3,4,1,center,0,1
+jhu_1955,JHU-Crowd++,train,1955.jpg,800,528,1,4,1,2,1,center,0,1
+jhu_1966,JHU-Crowd++,train,1966.jpg,800,534,1,9,5,4,0,left,0,1
+jhu_2082,JHU-Crowd++,test,2082.jpg,2600,1788,1,6,2,2,2,left|center|right,1,0
+jhu_2312,JHU-Crowd++,test,2312.jpg,1000,1333,1,6,2,4,0,center,0,2
+jhu_2392,JHU-Crowd++,test,2392.jpg,1024,660,1,1,0,1,0,center,0,1
+jhu_2414,JHU-Crowd++,train,2414.jpg,1000,750,1,8,3,2,3,left|right,1,0
+jhu_2448,JHU-Crowd++,train,2448.jpg,620,388,1,7,2,3,2,center,0,1
+jhu_2554,JHU-Crowd++,test,2554.jpg,960,720,1,7,2,3,2,center,0,1
+jhu_2564,JHU-Crowd++,test,2564.jpg,620,436,1,6,2,4,0,center,0,2
+jhu_2620,JHU-Crowd++,train,2620.jpg,800,450,1,8,2,3,3,center|right,1,0
+jhu_2686,JHU-Crowd++,val,2686.jpg,1284,700,1,9,3,4,2,center,0,1
+jhu_2703,JHU-Crowd++,test,2703.jpg,800,420,1,4,1,3,0,center,0,2
+jhu_2742,JHU-Crowd++,test,2742.jpg,624,351,1,8,2,3,3,center|right,1,0
+jhu_2949,JHU-Crowd++,val,2949.jpg,620,620,1,6,1,4,1,center,0,3
+jhu_3026,JHU-Crowd++,test,3026.jpg,725,300,1,7,0,6,1,center,0,5
+jhu_3116,JHU-Crowd++,val,3116.jpg,628,353,1,9,3,3,3,left|center|right,1,0
+jhu_3123,JHU-Crowd++,train,3123.jpg,810,450,1,9,2,3,4,right,0,1
+jhu_3170,JHU-Crowd++,train,3170.jpg,800,330,1,8,2,4,2,center,0,2
+jhu_3394,JHU-Crowd++,val,3394.jpg,720,405,1,10,2,4,4,center|right,1,0
+jhu_3703,JHU-Crowd++,train,3703.jpg,1000,750,1,4,1,2,1,center,0,1
+jhu_3785,JHU-Crowd++,train,3785.jpg,550,550,1,3,2,0,1,left,0,1
+jhu_4002,JHU-Crowd++,test,4002.jpg,970,450,1,9,3,3,3,left|center|right,1,0
+jhu_4009,JHU-Crowd++,test,4009.jpg,600,383,1,1,0,1,0,center,0,1
+jhu_4323,JHU-Crowd++,test,4323.jpg,1050,600,1,9,3,4,2,center,0,1
+sha_IMG_198,ShanghaiTech Part B,test,IMG_198.jpg,1024,768,1,9,2,4,3,center,0,1
+jhu_0109,JHU-Crowd++,train,0109.jpg,4912,3264,2,19,4,5,10,right,0,5
+jhu_0351,JHU-Crowd++,test,0351.jpg,1024,400,2,16,5,7,4,center,0,2
+jhu_0378,JHU-Crowd++,val,0378.jpg,1042,586,2,16,3,8,5,center,0,3
+jhu_0459,JHU-Crowd++,test,0459.jpg,960,639,2,14,4,7,3,center,0,3
+jhu_0461,JHU-Crowd++,train,0461.jpg,3500,2478,2,17,6,6,5,left|center,1,0
+jhu_0582,JHU-Crowd++,test,0582.jpg,1920,1080,2,18,5,10,3,center,0,5
+jhu_0675,JHU-Crowd++,val,0675.jpg,1024,750,2,13,5,7,1,center,0,2
+jhu_0769,JHU-Crowd++,train,0769.jpg,2048,1459,2,15,6,5,4,left,0,1
+jhu_0862,JHU-Crowd++,train,0862.jpg,1000,662,2,18,7,6,5,left,0,1
+jhu_1126,JHU-Crowd++,train,1126.jpg,2670,2016,2,14,5,6,3,center,0,1
+jhu_1198,JHU-Crowd++,test,1198.jpg,2000,1358,2,13,2,7,4,center,0,3
+jhu_1244,JHU-Crowd++,val,1244.jpg,980,551,2,15,3,8,4,center,0,4
+jhu_1285,JHU-Crowd++,train,1285.jpg,800,533,2,17,4,5,8,right,0,3
+jhu_1312,JHU-Crowd++,train,1312.jpg,2736,3648,2,12,7,2,3,left,0,4
+jhu_1364,JHU-Crowd++,val,1364.jpg,1280,720,2,20,7,10,3,center,0,3
+jhu_1521,JHU-Crowd++,train,1521.jpg,2716,1810,2,14,3,7,4,center,0,3
+jhu_1533,JHU-Crowd++,train,1533.jpg,1024,683,2,12,4,1,7,right,0,3
+jhu_1766,JHU-Crowd++,val,1766.jpg,1024,525,2,11,2,6,3,center,0,3
+jhu_1869,JHU-Crowd++,test,1869.jpg,900,506,2,18,5,8,5,center,0,3
+jhu_1880,JHU-Crowd++,train,1880.jpg,750,563,2,18,4,6,8,right,0,2
+jhu_1970,JHU-Crowd++,train,1970.jpg,1000,625,2,20,4,5,11,right,0,6
+jhu_2140,JHU-Crowd++,train,2140.jpg,2048,1365,2,13,3,8,2,center,0,5
+jhu_2171,JHU-Crowd++,test,2171.jpg,1200,900,2,14,5,5,4,left|center,1,0
+jhu_2234,JHU-Crowd++,train,2234.jpg,3543,2016,2,12,6,4,2,left,0,2
+jhu_2435,JHU-Crowd++,train,2435.jpg,1890,1256,2,18,5,9,4,center,0,4
+jhu_2485,JHU-Crowd++,train,2485.jpg,1920,1080,2,15,0,10,5,center,0,5
+jhu_2760,JHU-Crowd++,val,2760.jpg,1280,720,2,16,6,5,5,left,0,1
+jhu_2826,JHU-Crowd++,train,2826.jpg,1200,675,2,19,6,7,6,center,0,1
+jhu_3077,JHU-Crowd++,val,3077.jpg,1023,575,2,17,7,7,3,left|center,1,0
+jhu_3173,JHU-Crowd++,test,3173.jpg,1698,1131,2,15,9,3,3,left,0,6
+jhu_3261,JHU-Crowd++,test,3261.jpg,800,600,2,16,5,6,5,center,0,1
+jhu_3347,JHU-Crowd++,train,3347.jpg,2592,1728,2,16,6,5,5,left,0,1
+jhu_3807,JHU-Crowd++,train,3807.jpg,1920,1080,2,14,3,9,2,center,0,6
+jhu_3824,JHU-Crowd++,train,3824.jpg,800,533,2,19,7,8,4,center,0,1
+jhu_3939,JHU-Crowd++,test,3939.jpg,1200,799,2,16,7,3,6,left,0,1
+jhu_3945,JHU-Crowd++,train,3945.jpg,960,540,2,16,8,5,3,left,0,3
+jhu_3967,JHU-Crowd++,train,3967.jpg,4707,3138,2,16,9,7,0,left,0,2
+jhu_4090,JHU-Crowd++,test,4090.jpg,1800,1009,2,14,7,3,4,left,0,3
+jhu_4105,JHU-Crowd++,train,4105.jpg,960,720,2,13,3,6,4,center,0,2
+jhu_4175,JHU-Crowd++,test,4175.jpg,1080,720,2,13,3,6,4,center,0,2
+jhu_4284,JHU-Crowd++,test,4284.jpg,1100,619,2,15,5,6,4,center,0,1
+sha_IMG_111,ShanghaiTech Part B,test,IMG_111.jpg,1024,768,2,20,3,8,9,right,0,1
+sha_IMG_171,ShanghaiTech Part B,test,IMG_171.jpg,1024,768,2,15,1,2,12,right,0,10
+sha_IMG_20,ShanghaiTech Part B,test,IMG_20.jpg,1024,768,2,15,5,8,2,center,0,3
+sha_IMG_288,ShanghaiTech Part B,test,IMG_288.jpg,1024,768,2,20,5,8,7,center,0,1
+sha_IMG_404,ShanghaiTech Part B,train,IMG_88.jpg,1024,768,2,14,4,8,2,center,0,4
+sha_IMG_409,ShanghaiTech Part B,train,IMG_93.jpg,1024,768,2,20,11,7,2,left,0,4
+sha_IMG_571,ShanghaiTech Part B,train,IMG_255.jpg,1024,768,2,13,5,2,6,right,0,1
+sha_IMG_648,ShanghaiTech Part B,train,IMG_332.jpg,1024,768,2,15,6,5,4,left,0,1
+sha_IMG_671,ShanghaiTech Part B,train,IMG_355.jpg,1024,768,2,19,10,5,4,left,0,5
+jhu_0223,JHU-Crowd++,test,0223.jpg,5760,3840,3,25,6,9,10,right,0,1
+jhu_0322,JHU-Crowd++,train,0322.jpg,1024,768,3,22,6,12,4,center,0,6
+jhu_0502,JHU-Crowd++,train,0502.jpg,1000,662,3,29,10,6,13,right,0,3
+jhu_0506,JHU-Crowd++,val,0506.jpg,1000,529,3,21,12,6,3,left,0,6
+jhu_0585,JHU-Crowd++,train,0585.jpg,1000,666,3,22,6,7,9,right,0,2
+jhu_0770,JHU-Crowd++,test,0770.jpg,1600,1077,3,21,10,9,2,left,0,1
+jhu_1204,JHU-Crowd++,train,1204.jpg,900,505,3,21,5,10,6,center,0,4
+jhu_1870,JHU-Crowd++,test,1870.jpg,1280,720,3,22,3,16,3,center,0,13
+jhu_1957,JHU-Crowd++,train,1957.jpg,1280,873,3,25,13,9,3,left,0,4
+jhu_1984,JHU-Crowd++,test,1984.jpg,899,600,3,29,12,14,3,center,0,2
+jhu_2488,JHU-Crowd++,test,2488.jpg,1500,1016,3,28,7,12,9,center,0,3
+jhu_2529,JHU-Crowd++,test,2529.jpg,3648,2736,3,26,6,17,3,center,0,11
+jhu_2822,JHU-Crowd++,test,2822.jpg,6000,4000,3,29,7,15,7,center,0,8
+jhu_2834,JHU-Crowd++,train,2834.jpg,1024,683,3,29,11,11,7,left|center,1,0
+jhu_2842,JHU-Crowd++,test,2842.jpg,804,530,3,24,6,8,10,right,0,2
+jhu_2937,JHU-Crowd++,train,2937.jpg,1000,661,3,28,9,9,10,right,0,1
+jhu_2955,JHU-Crowd++,train,2955.jpg,1527,873,3,21,6,8,7,center,0,1
+jhu_2958,JHU-Crowd++,train,2958.jpg,1200,630,3,26,10,6,10,left|right,1,0
+jhu_3434,JHU-Crowd++,train,3434.jpg,960,500,3,21,4,14,3,center,0,10
+jhu_3472,JHU-Crowd++,val,3472.jpg,852,480,3,22,7,6,9,right,0,2
+jhu_3528,JHU-Crowd++,test,3528.jpg,3840,2160,3,26,2,14,10,center,0,4
+jhu_3659,JHU-Crowd++,train,3659.jpg,860,481,3,29,10,8,11,right,0,1
+jhu_3725,JHU-Crowd++,train,3725.jpg,800,641,3,26,14,6,6,left,0,8
+jhu_3840,JHU-Crowd++,train,3840.jpg,1500,625,3,25,5,13,7,center,0,6
+jhu_3927,JHU-Crowd++,test,3927.jpg,960,638,3,27,12,10,5,left,0,2
+jhu_4166,JHU-Crowd++,train,4166.jpg,960,624,3,23,10,6,7,left,0,3
+jhu_4289,JHU-Crowd++,train,4289.jpg,1000,600,3,30,15,11,4,left,0,4
+sha_IMG_1,ShanghaiTech Part B,test,IMG_1.jpg,1024,768,3,23,2,11,10,center,0,1
+sha_IMG_177,ShanghaiTech Part B,test,IMG_177.jpg,1024,768,3,21,6,3,12,right,0,6
+sha_IMG_233,ShanghaiTech Part B,test,IMG_233.jpg,1024,768,3,29,21,6,2,left,0,15
+sha_IMG_250,ShanghaiTech Part B,test,IMG_250.jpg,1024,768,3,24,11,10,3,left,0,1
+sha_IMG_282,ShanghaiTech Part B,test,IMG_282.jpg,1024,768,3,24,8,11,5,center,0,3
+sha_IMG_313,ShanghaiTech Part B,test,IMG_313.jpg,1024,768,3,29,15,3,11,left,0,4
+sha_IMG_319,ShanghaiTech Part B,train,IMG_3.jpg,1024,768,3,29,14,4,11,left,0,3
+sha_IMG_368,ShanghaiTech Part B,train,IMG_52.jpg,1024,768,3,23,7,11,5,center,0,4
+sha_IMG_375,ShanghaiTech Part B,train,IMG_59.jpg,1024,768,3,25,8,10,7,center,0,2
+sha_IMG_398,ShanghaiTech Part B,train,IMG_82.jpg,1024,768,3,30,8,10,12,right,0,2
+sha_IMG_402,ShanghaiTech Part B,train,IMG_86.jpg,1024,768,3,22,6,11,5,center,0,5
+sha_IMG_436,ShanghaiTech Part B,train,IMG_120.jpg,1024,768,3,28,13,12,3,left,0,1
+sha_IMG_469,ShanghaiTech Part B,train,IMG_153.jpg,1024,768,3,27,7,10,10,center|right,1,0
+sha_IMG_517,ShanghaiTech Part B,train,IMG_201.jpg,1024,768,3,30,13,7,10,left,0,3
+sha_IMG_549,ShanghaiTech Part B,train,IMG_233.jpg,1024,768,3,23,6,8,9,right,0,1
+sha_IMG_592,ShanghaiTech Part B,train,IMG_276.jpg,1024,768,3,26,7,6,13,right,0,6
+sha_IMG_594,ShanghaiTech Part B,train,IMG_278.jpg,1024,768,3,30,9,11,10,center,0,1
+sha_IMG_609,ShanghaiTech Part B,train,IMG_293.jpg,1024,768,3,23,4,12,7,center,0,5
+sha_IMG_630,ShanghaiTech Part B,train,IMG_314.jpg,1024,768,3,26,5,11,10,center,0,1
+sha_IMG_651,ShanghaiTech Part B,train,IMG_335.jpg,1024,768,3,23,13,8,2,left,0,5
+sha_IMG_689,ShanghaiTech Part B,train,IMG_373.jpg,1024,768,3,23,10,7,6,left,0,3
+sha_IMG_712,ShanghaiTech Part B,train,IMG_396.jpg,1024,768,3,28,1,13,14,right,0,1
+sha_IMG_89,ShanghaiTech Part B,test,IMG_89.jpg,1024,768,3,23,14,9,0,left,0,5
+jhu_0023,JHU-Crowd++,train,0023.jpg,980,620,4,39,10,20,9,center,0,10
+jhu_0070,JHU-Crowd++,val,0070.jpg,1024,576,4,32,8,14,10,center,0,4
+jhu_0201,JHU-Crowd++,train,0201.jpg,900,600,4,35,12,11,12,left|right,1,0
+jhu_0555,JHU-Crowd++,test,0555.jpg,798,571,4,34,8,16,10,center,0,6
+jhu_0601,JHU-Crowd++,test,0601.jpg,2200,1199,4,32,10,12,10,center,0,2
+jhu_1063,JHU-Crowd++,train,1063.jpg,768,521,4,33,10,14,9,center,0,4
+jhu_1180,JHU-Crowd++,train,1180.jpg,1200,786,4,32,11,12,9,center,0,1
+jhu_1294,JHU-Crowd++,train,1294.jpg,1637,1070,4,38,17,11,10,left,0,6
+jhu_1368,JHU-Crowd++,train,1368.jpg,854,570,4,40,14,11,15,right,0,1
+jhu_1472,JHU-Crowd++,train,1472.jpg,1920,1080,4,39,9,12,18,right,0,6
+jhu_1787,JHU-Crowd++,val,1787.jpg,962,608,4,40,14,18,8,center,0,4
+jhu_1896,JHU-Crowd++,train,1896.jpg,900,1200,4,31,9,9,13,right,0,4
+jhu_2170,JHU-Crowd++,train,2170.jpg,1498,854,4,39,9,12,18,right,0,6
+jhu_2241,JHU-Crowd++,val,2241.jpg,1000,1000,4,32,9,14,9,center,0,5
+jhu_2335,JHU-Crowd++,train,2335.jpg,1555,1037,4,34,13,11,10,left,0,2
+jhu_2400,JHU-Crowd++,test,2400.jpg,1400,788,4,35,10,17,8,center,0,7
+jhu_2525,JHU-Crowd++,train,2525.jpg,1000,667,4,34,7,17,10,center,0,7
+jhu_2672,JHU-Crowd++,val,2672.jpg,962,640,4,40,9,13,18,right,0,5
+jhu_2882,JHU-Crowd++,val,2882.jpg,976,694,4,38,10,14,14,center|right,1,0
+jhu_3027,JHU-Crowd++,test,3027.jpg,1400,1400,4,32,12,4,16,right,0,4
+jhu_3168,JHU-Crowd++,train,3168.jpg,1024,683,4,39,13,10,16,right,0,3
+jhu_3613,JHU-Crowd++,train,3613.jpg,2000,1125,4,37,10,12,15,right,0,3
+jhu_3881,JHU-Crowd++,test,3881.jpg,800,566,4,38,14,18,6,center,0,4
+jhu_3896,JHU-Crowd++,test,3896.jpg,1000,666,4,36,13,13,10,left|center,1,0
+jhu_3947,JHU-Crowd++,test,3947.jpg,2500,1575,4,36,7,18,11,center,0,7
+jhu_4095,JHU-Crowd++,train,4095.jpg,1024,640,4,35,17,9,9,left,0,8
+jhu_4116,JHU-Crowd++,test,4116.jpg,1150,800,4,37,11,13,13,center|right,1,0
+jhu_4182,JHU-Crowd++,test,4182.jpg,960,720,4,31,6,17,8,center,0,9
+sha_IMG_141,ShanghaiTech Part B,test,IMG_141.jpg,1024,768,4,35,17,9,9,left,0,8
+sha_IMG_189,ShanghaiTech Part B,test,IMG_189.jpg,1024,768,4,40,23,10,7,left,0,13
+sha_IMG_210,ShanghaiTech Part B,test,IMG_210.jpg,1024,768,4,35,6,15,14,center,0,1
+sha_IMG_252,ShanghaiTech Part B,test,IMG_252.jpg,1024,768,4,31,6,12,13,right,0,1
+sha_IMG_264,ShanghaiTech Part B,test,IMG_264.jpg,1024,768,4,36,11,10,15,right,0,4
+sha_IMG_352,ShanghaiTech Part B,train,IMG_36.jpg,1024,768,4,32,22,6,4,left,0,16
+sha_IMG_376,ShanghaiTech Part B,train,IMG_60.jpg,1024,768,4,40,0,26,14,center,0,12
+sha_IMG_387,ShanghaiTech Part B,train,IMG_71.jpg,1024,768,4,35,9,15,11,center,0,4
+sha_IMG_392,ShanghaiTech Part B,train,IMG_76.jpg,1024,768,4,32,7,17,8,center,0,9
+sha_IMG_403,ShanghaiTech Part B,train,IMG_87.jpg,1024,768,4,38,11,15,12,center,0,3
+sha_IMG_529,ShanghaiTech Part B,train,IMG_213.jpg,1024,768,4,36,8,16,12,center,0,4
+sha_IMG_536,ShanghaiTech Part B,train,IMG_220.jpg,1024,768,4,38,18,10,10,left,0,8
+sha_IMG_548,ShanghaiTech Part B,train,IMG_232.jpg,1024,768,4,33,10,14,9,center,0,4
+sha_IMG_552,ShanghaiTech Part B,train,IMG_236.jpg,1024,768,4,37,14,12,11,left,0,2
+sha_IMG_577,ShanghaiTech Part B,train,IMG_261.jpg,1024,768,4,36,10,8,18,right,0,8
+sha_IMG_581,ShanghaiTech Part B,train,IMG_265.jpg,1024,768,4,32,15,11,6,left,0,4
+sha_IMG_60,ShanghaiTech Part B,test,IMG_60.jpg,1024,768,4,35,8,8,19,right,0,11
+sha_IMG_608,ShanghaiTech Part B,train,IMG_292.jpg,1024,768,4,34,17,8,9,left,0,8
+sha_IMG_632,ShanghaiTech Part B,train,IMG_316.jpg,1024,768,4,35,5,12,18,right,0,6
+sha_IMG_642,ShanghaiTech Part B,train,IMG_326.jpg,1024,768,4,35,13,13,9,left|center,1,0
+sha_IMG_663,ShanghaiTech Part B,train,IMG_347.jpg,1024,768,4,33,13,16,4,center,0,3
+sha_IMG_9,ShanghaiTech Part B,test,IMG_9.jpg,1024,768,4,36,10,11,15,right,0,4
+jhu_0103,JHU-Crowd++,train,0103.jpg,2160,1440,5,47,16,13,18,right,0,2
+jhu_0204,JHU-Crowd++,train,0204.jpg,3977,2646,5,42,13,20,9,center,0,7
+jhu_0419,JHU-Crowd++,test,0419.jpg,1121,738,5,47,17,15,15,left,0,2
+jhu_0443,JHU-Crowd++,test,0443.jpg,1000,750,5,42,10,20,12,center,0,8
+jhu_0456,JHU-Crowd++,train,0456.jpg,1920,1080,5,47,25,16,6,left,0,9
+jhu_0702,JHU-Crowd++,train,0702.jpg,1200,800,5,50,11,20,19,center,0,1
+jhu_0730,JHU-Crowd++,val,0730.jpg,886,591,5,45,9,26,10,center,0,16
+jhu_0888,JHU-Crowd++,train,0888.jpg,1336,749,5,47,13,17,17,center|right,1,0
+jhu_1335,JHU-Crowd++,test,1335.jpg,900,600,5,41,8,18,15,center,0,3
+jhu_1373,JHU-Crowd++,test,1373.jpg,1744,1170,5,44,27,14,3,left,0,13
+jhu_1374,JHU-Crowd++,train,1374.jpg,1500,1252,5,48,14,12,22,right,0,8
+jhu_1604,JHU-Crowd++,train,1604.jpg,1200,800,5,43,17,11,15,left,0,2
+jhu_1942,JHU-Crowd++,test,1942.jpg,1050,714,5,48,17,15,16,left,0,1
+jhu_2085,JHU-Crowd++,train,2085.jpg,800,535,5,44,15,16,13,center,0,1
+jhu_2450,JHU-Crowd++,train,2450.jpg,800,500,5,49,12,17,20,right,0,3
+jhu_2572,JHU-Crowd++,val,2572.jpg,990,743,5,50,19,18,13,left,0,1
+jhu_2764,JHU-Crowd++,test,2764.jpg,4256,2832,5,45,22,20,3,left,0,2
+jhu_2780,JHU-Crowd++,train,2780.jpg,1000,667,5,41,11,16,14,center,0,2
+jhu_2897,JHU-Crowd++,train,2897.jpg,1920,1280,5,45,13,19,13,center,0,6
+jhu_3115,JHU-Crowd++,train,3115.jpg,1368,936,5,47,14,17,16,center,0,1
+jhu_3270,JHU-Crowd++,train,3270.jpg,1900,575,5,47,19,18,10,left,0,1
+jhu_3700,JHU-Crowd++,train,3700.jpg,1200,802,5,41,15,8,18,right,0,3
+jhu_3859,JHU-Crowd++,test,3859.jpg,800,600,5,41,21,16,4,left,0,5
+jhu_4215,JHU-Crowd++,test,4215.jpg,2000,1333,5,42,8,19,15,center,0,4
+sha_IMG_13,ShanghaiTech Part B,test,IMG_13.jpg,1024,768,5,49,25,13,11,left,0,12
+sha_IMG_151,ShanghaiTech Part B,test,IMG_151.jpg,1024,768,5,47,19,19,9,left|center,1,0
+sha_IMG_156,ShanghaiTech Part B,test,IMG_156.jpg,1024,768,5,43,18,10,15,left,0,3
+sha_IMG_161,ShanghaiTech Part B,test,IMG_161.jpg,1024,768,5,48,19,12,17,left,0,2
+sha_IMG_178,ShanghaiTech Part B,test,IMG_178.jpg,1024,768,5,43,19,14,10,left,0,5
+sha_IMG_289,ShanghaiTech Part B,test,IMG_289.jpg,1024,768,5,45,14,14,17,right,0,3
+sha_IMG_294,ShanghaiTech Part B,test,IMG_294.jpg,1024,768,5,46,18,12,16,left,0,2
+sha_IMG_308,ShanghaiTech Part B,test,IMG_308.jpg,1024,768,5,47,19,16,12,left,0,3
+sha_IMG_32,ShanghaiTech Part B,test,IMG_32.jpg,1024,768,5,44,12,12,20,right,0,8
+sha_IMG_330,ShanghaiTech Part B,train,IMG_14.jpg,1024,768,5,50,14,21,15,center,0,6
+sha_IMG_333,ShanghaiTech Part B,train,IMG_17.jpg,1024,768,5,49,22,15,12,left,0,7
+sha_IMG_358,ShanghaiTech Part B,train,IMG_42.jpg,1024,768,5,43,12,19,12,center,0,7
+sha_IMG_394,ShanghaiTech Part B,train,IMG_78.jpg,1024,768,5,43,15,15,13,left|center,1,0
+sha_IMG_401,ShanghaiTech Part B,train,IMG_85.jpg,1024,768,5,47,18,16,13,left,0,2
+sha_IMG_438,ShanghaiTech Part B,train,IMG_122.jpg,1024,768,5,43,19,8,16,left,0,3
+sha_IMG_444,ShanghaiTech Part B,train,IMG_128.jpg,1024,768,5,41,13,14,14,center|right,1,0
+sha_IMG_446,ShanghaiTech Part B,train,IMG_130.jpg,1024,768,5,50,24,14,12,left,0,10
+sha_IMG_451,ShanghaiTech Part B,train,IMG_135.jpg,1024,768,5,42,15,16,11,center,0,1
+sha_IMG_468,ShanghaiTech Part B,train,IMG_152.jpg,1024,768,5,41,20,18,3,left,0,2
+sha_IMG_489,ShanghaiTech Part B,train,IMG_173.jpg,1024,768,5,42,6,12,24,right,0,12
+sha_IMG_522,ShanghaiTech Part B,train,IMG_206.jpg,1024,768,5,47,13,16,18,right,0,2
+sha_IMG_535,ShanghaiTech Part B,train,IMG_219.jpg,1024,768,5,50,24,17,9,left,0,7
+sha_IMG_569,ShanghaiTech Part B,train,IMG_253.jpg,1024,768,5,46,11,11,24,right,0,13
+sha_IMG_629,ShanghaiTech Part B,train,IMG_313.jpg,1024,768,5,41,21,15,5,left,0,6
+sha_IMG_70,ShanghaiTech Part B,test,IMG_70.jpg,1024,768,5,48,17,16,15,left,0,1
+sha_IMG_95,ShanghaiTech Part B,test,IMG_95.jpg,1024,768,5,48,19,14,15,left,0,4
